@@ -1,5 +1,5 @@
 ## Example for using Docker to compile programs for a Raspberry Pi
-This example will compile a wheel package for [matrix-lite-py](https://github.com/matrix-io/matrix-lite-py), but it can easily be modified to suit different needs.
+This example will compile a wheel package for [matrix-lite-py](https://github.com/matrix-io/matrix-lite-py), but it can easily be modified for different needs.
 
 Helpful Links:
 - [Balena Image Selection](https://www.balena.io/docs/reference/base-images/base-images/)
