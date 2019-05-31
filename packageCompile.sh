@@ -1,3 +1,4 @@
+#!/bin/bash
 ## Script for docker to compile library package(s) ##
 
 # Pretend boot files exists
